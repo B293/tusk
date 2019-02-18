@@ -6,4 +6,6 @@ loops
 for loops
 
 do while 
-
+array 
+files 
+oops concepts 
